@@ -1,1 +1,1 @@
-# hex2ascii
+一个简单的十六进制字符串转ascii码的python脚本。
